@@ -20,7 +20,6 @@ const Home: NextPage = () => {
       </Head>
       <Header />
       <LotteryEntrance />
-      Dapp
     </div>
   )
 }
